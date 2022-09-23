@@ -10,5 +10,5 @@ print('ibu berkata, "pergi ke toko"')
 print('Budi Manjawab "Baik, Apa yang harus saya lakukan di toko"')
 print('Ibu menjawab, "Beli satu botol susu, dan jika ada telor beli"')
 print("Maka Budi Berangkat ke toko")
-print("Dan Mulai berbelanja")
+print("Dan Mulai berbelanja roti")
 
